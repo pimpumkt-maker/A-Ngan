@@ -1,0 +1,5 @@
+{
+  "name": "Vòng Quay Cầu Nguyện",
+  "description": "Một ứng dụng vòng quay may mắn để chọn một người đại diện cầu nguyện, với các xác suất được xác định trước cho mỗi người tham gia.",
+  "requestFramePermissions": []
+}
